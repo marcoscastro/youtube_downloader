@@ -3,7 +3,7 @@ Youtube Downloader - download YouTube videos.
 
 Developed and tested with Python 3.
 
-Requires of the pytube library: https://github.com/nficano/pytube
+Requires the pytube library: https://github.com/nficano/pytube
 
 The GUI was make with tkinter module.
 
