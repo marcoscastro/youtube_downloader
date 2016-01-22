@@ -7,6 +7,6 @@ Requires the pytube library: https://github.com/nficano/pytube
 
 The GUI was make with tkinter module.
 
-<p align="center"><img src="asdasd" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/marcoscastro/youtube_downloader/master/image.PNG" /></p>
 
 Contact: mcastrosouza@live.com
